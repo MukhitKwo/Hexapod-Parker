@@ -1,0 +1,12 @@
+18 MG995 motor or another if equal size
+(minimum force required: 10kg/cm)
+1 Arduino Uno R3
+(may also work with other boards (need testing))
+2 PCA9685
+1 Lipo Battery 6V
+(minimum current required: 5 Amps)
+1 Voltage Regulator
+(if battery voltage is more than 6V)
+
+Any questions, please contact the creator.
+Informations on 'README' file.

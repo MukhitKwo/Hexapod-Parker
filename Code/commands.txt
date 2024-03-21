@@ -1,0 +1,28 @@
+move 1 111 90 60 30
+move tri lrl 111 90 60 30
+move all 111 90 60 30
+walk f 3
+walk b 4
+walk l 1
+walk r 2
+rotate r 5
+rotate l 6
+define upc 120
+define rise 30
+set 0
+set 1 _/fix
+set 2 _/fix
+set 3
+turn off
+turn off 0
+turn 1 111 off/on
+turn all 011 off/on
+show info
+show done true/false
+play jump 3
+play step 5
+play spin 4 _/fix
+play wave 2 _/fix
+
+Any questions, please contact the creator.
+Informations on 'README' file.
