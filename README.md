@@ -1,2 +1,3 @@
-# Hexapod-Parker
-Every file used to make the hexapod.
+This project was made by MukhitKwo in 2024
+Discord: mukhitkwo
+Twitter/X: @mukhitkwo
