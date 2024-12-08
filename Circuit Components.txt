@@ -1,0 +1,17 @@
+------------- Componentes used on the Hexapod -------------
+
+
+1 Arduino Uno R3 (recommend using a RasperyPi (never tested tho))
+
+2 PCA9685
+
+
+18 MG995 motors or another of equal size (minimum: 10kg/cm / recommended: 15kg/cm or more)
+
+
+1 Lipo Battery 6V (recommended current required: 8+ Amps) !(don't have model)!
+
+1 Voltage Regulator (if battery voltage is more than 6 Volts) !(don't have model)!
+
+
+1 HC-06 > If controlled by bluetooth connection, will also need a Battery Cable
