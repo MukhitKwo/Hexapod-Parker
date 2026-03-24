@@ -1,3 +1,2 @@
-This project was made by MukhitKwo in 2024
-Discord: mukhitkwo
-Twitter/X: @mukhitkwo
+This robot was made as a Final Year Project for my high school, in 2024.
+Used Arduino programming language.
